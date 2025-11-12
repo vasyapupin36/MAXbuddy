@@ -1,0 +1,17 @@
+{
+  "requests": [],
+  "users": [
+    {
+      "id": "1762941045384",
+      "name": "Пользователь MAX",
+      "maxLink": "https://max.ru/u/f9LHodD0cOL8rbsYS1pZWbqMrCdyqfDYqtbvj_If9wOPAc8Wn89eTCFM2eQ",
+      "institute": "81",
+      "course": "1dqw"
+    },
+    {
+      "id": "1762941668084",
+      "name": "F9LHodD0cOL8rbsYS1pZWbqMrCdyqfDYqtbvj_If9wOPAc8Wn89eTCFM2eQ",
+      "maxLink": "https://max.ru/u/f9LHodD0cOL8rbsYS1pZWbqMrCdyqfDYqtbvj_If9wOPAc8Wn89eTCFM2eQ"
+    }
+  ]
+}
